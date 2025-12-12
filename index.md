@@ -1,5 +1,5 @@
-Bienvenue sur mon portfolio
-<img src="https://avatars.githubusercontent.com/u/151877992?v=4" width="140" style="border-radius: 50%; margin-top:20px" />
+✨ Bienvenue sur mon portfolio
+<img src="https://avatars.githubusercontent.com/u/151877992?v=4" width="130" style="border-radius: 50%; margin-bottom: 20px;" />
 Sandra Soto
 Développeuse Web & Intelligence Artificielle | Montréal, Québec
 🌐 Liens rapides
@@ -17,48 +17,41 @@ Python • FastAPI • Node.js • React • MongoDB • SQL Server • Raspberr
 Je suis motivée, rigoureuse et orientée vers la création de solutions modernes et efficaces.
 
 🚀 Projets Principaux
-🎓 Thot Tutorat – Plateforme éducative avec IA (Fullstack + Microservices)
+🎓 Thot Tutorat – Plateforme éducative avec IA
 
-Authentification et gestion des utilisateurs
+Gestion des utilisateurs
 
-Tableau de bord étudiants & tuteurs
+Tableau de bord
 
-Microservices : ChatIA (RAG + Ollama), FAQ, Paiements, Statistiques
+Microservices : ChatIA, FAQ, Paiements, Statistiques
 
-API REST (FastAPI + Node.js + C#)
+API REST FastAPI / Node.js
 
-Intégration front-end avec React
-📁 Projet académique (Dépôt privé)
+Front-end React
 
-🤖 Système de Reconnaissance Faciale – Python | Projet IA1
+🤖 Système de Reconnaissance Faciale – Python
 
-Extraction et classification des descripteurs faciaux
+Extraction des descripteurs faciaux
 
-Implémentation OpenCV, NumPy et Streamlit
+Classification (OpenCV, NumPy, Streamlit)
 
-Démo basée strictement sur le matériel fourni
-📁 Dépôt : à ajouter
+Basé sur matériel fourni
 
 🔧 AlarmSys SCADA – Raspberry Pi | POO + Tkinter
 
-Système d’alarme avec zones d'intrusion
+Zones d'intrusion
 
-Contrôle de capteurs (GPIO) et afficheur 7 segments
+Afficheur 7 segments
 
-Interface visuelle développée en Tkinter
-📁 Dépôt : à ajouter
+Interface Tkinter
 
-📊 Analyse des prix des logements en Californie – Streamlit
+📊 Analyse de prix des logements – Streamlit
 
-Analyse exploratoire (EDA)
-
-Visualisations dynamiques et prétraitement
-📁 Dépôt : https://github.com/saveso123/california-housing-streamlit
+🔗 https://github.com/saveso123/california-housing-streamlit
 
 📬 Contact
 
-📧 ssoto741@gmail.com
-
-📍 Montréal, Québec, Canada
+📍 Montréal, Québec
+✉️ ssoto741@gmail.com
 
 ✨ Merci de votre visite !
