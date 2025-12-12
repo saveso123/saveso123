@@ -80,7 +80,7 @@ Application complète destinée aux tuteurs et étudiants :
 
 ## 📫 Me Contacter
 - ✉️ Email : ssoto741@gmail.com  
-- 🔗 LinkedIn : linkedin.com/in/sandrasoto
+- 🔗 LinkedIn : https://www.linkedin.com/in/sandra-soto-05b6602b4/
 - 📍 Montréal, Québec  
 
 💬 *Ouverte aux opportunités junior en développement Web, IA, SCADA, automatisation ou systèmes intelligents.*
