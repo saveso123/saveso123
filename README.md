@@ -1,8 +1,8 @@
-# 👋 Bonjour ! Je m’appelle **Sandra Soto**  
+# 👋 Bonjour ! Je m’appelle **Sandra Soto Polo**  
 ### Développeuse Web & Intelligence Artificielle | Montréal, Québec  
 
 Passionnée par la création d’applications modernes et intelligentes,  
-je travaille principalement avec **Python, FastAPI, Node.js, React, MongoDB, SQL Server et Raspberry Pi**.  
+Je travaille principalement avec **Python, FastAPI, Node.js, React, MongoDB, SQL Server et Raspberry Pi**.  
 Je m’intéresse particulièrement à l’IA appliquée (RAG, OCR, reconnaissance faciale),  
 à la conception de microservices et au développement d’interfaces web complètes.
 
