@@ -1,4 +1,4 @@
-✨ Bienvenue sur mon portfolio
+Bienvenue sur mon portfolio
 <img src="https://avatars.githubusercontent.com/u/151877992?v=4" width="140" style="border-radius: 50%; margin-top:20px" />
 Sandra Soto
 Développeuse Web & Intelligence Artificielle | Montréal, Québec
