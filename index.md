@@ -1,57 +1,63 @@
-✨ Bienvenue sur mon portfolio
-<img src="https://avatars.githubusercontent.com/u/151877992?v=4" width="130" style="border-radius: 50%; margin-bottom: 20px;" />
-Sandra Soto
-Développeuse Web & Intelligence Artificielle | Montréal, Québec
-🌐 Liens rapides
+# 👋 Bonjour, je suis Sandra Soto
 
-💼 Profil GitHub : saveso123
+### Développeuse Web & Intelligence Artificielle | Montréal, Québec
 
-🔗 LinkedIn : https://www.linkedin.com/in/sandra-soto-05b6602b4/
+---
 
-👋 À propos de moi
+## 🌐 Liens rapides
+- 💼 **Profil GitHub :** [saveso123](https://github.com/saveso123)
+- 🔗 **LinkedIn :** https://www.linkedin.com/in/sandra-soto-05b6602b4/
+
+---
+
+## 👩‍💻 À propos de moi
 
 Passionnée par le développement web et l’IA appliquée, je travaille principalement avec :
 
-Python • FastAPI • Node.js • React • MongoDB • SQL Server • Raspberry Pi
+**Python • FastAPI • Node.js • React • MongoDB • SQL Server • Raspberry Pi**
 
 Je suis motivée, rigoureuse et orientée vers la création de solutions modernes et efficaces.
 
-🚀 Projets Principaux
-🎓 Thot Tutorat – Plateforme éducative avec IA
+---
 
-Gestion des utilisateurs
+## 🚀 Projets principaux
 
-Tableau de bord
+### 🎓 Thot Tutorat – Plateforme éducative avec IA (Fullstack + Microservices)
+- Gestion des utilisateurs  
+- Tableau de bord pour étudiants et tuteurs  
+- Microservices : ChatIA, FAQ, Paiements, Statistiques  
+- API REST (FastAPI, Node.js, C#)  
+- Front-end développé avec React  
+> Projet académique – Dépôt consultable sur demande.
 
-Microservices : ChatIA, FAQ, Paiements, Statistiques
+---
 
-API REST FastAPI / Node.js
+### 🤖 Système de Reconnaissance Faciale – Python | Projet IA1
+- Extraction et classification des descripteurs faciaux  
+- Utilisation de **NumPy, OpenCV, Streamlit**  
+> Projet basé strictement sur le matériel fourni par le professeur.
 
-Front-end React
+---
 
-🤖 Système de Reconnaissance Faciale – Python
+### 🔧 AlarmSys SCADA – Raspberry Pi + Tkinter
+- Système d’alarme avec zones d’intrusion  
+- Boutons GPIO, afficheur 7 segments, LED d’alarme  
+- Interface HMI développée en **Tkinter**  
+> Projet orienté objet suivant un diagramme UML.
 
-Extraction des descripteurs faciaux
+---
 
-Classification (OpenCV, NumPy, Streamlit)
+### 📊 Analyse des prix des logements en Californie – Streamlit
+- Analyse exploratoire (EDA)  
+- Visualisations interactives  
+- Application construite en **Streamlit**  
+> 🔗 Dépôt : https://github.com/saveso123/california-housing-streamlit  
 
-Basé sur matériel fourni
+---
 
-🔧 AlarmSys SCADA – Raspberry Pi | POO + Tkinter
+## 📬 Contact
 
-Zones d'intrusion
+- 📍 Montréal, Québec, Canada  
+- ✉️ ssoto741@gmail.com
 
-Afficheur 7 segments
-
-Interface Tkinter
-
-📊 Analyse de prix des logements – Streamlit
-
-🔗 https://github.com/saveso123/california-housing-streamlit
-
-📬 Contact
-
-📍 Montréal, Québec
-✉️ ssoto741@gmail.com
-
-✨ Merci de votre visite !
+Merci de votre visite 👋
